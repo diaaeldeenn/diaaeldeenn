@@ -42,7 +42,7 @@ Continuously learning **React, TypeScript, and Next.js** to expand my Front-End 
 
 ## 👨‍💻 Visitor Count
 <p align="center">
-  <img src="https://img.shields.io/badge/Visitors-∞-brightgreen" />
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=diaaeldeenn.diaaeldeenn)
 </p>
 
 ---
@@ -59,10 +59,9 @@ Continuously learning **React, TypeScript, and Next.js** to expand my Front-End 
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diaaeldeenn&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaaeldeenn&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=diaaeldeenn&theme=darkhub&margin-w=15&no-frame=true" />
 </p>
 
 ---
