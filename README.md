@@ -40,9 +40,9 @@ Continuously learning **React, TypeScript, and Next.js** to expand my Front-End 
 
 ---
 
-## 👨‍💻 Visitor Count
+## 👀 Profile Views
 <p align="center">
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=diaaeldeenn.diaaeldeenn)
+  ![Profile Views](https://komarev.com/ghpvc/?username=diaaeldeenn&color=brightgreen)
 </p>
 
 ---
@@ -59,9 +59,10 @@ Continuously learning **React, TypeScript, and Next.js** to expand my Front-End 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diaaeldeenn&theme=darkhub&margin-w=15&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diaaeldeenn&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaaeldeenn&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
