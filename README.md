@@ -17,36 +17,32 @@ Continuously learning **React, TypeScript, and Next.js** to expand my Front-End 
 
 ## 🌟 Featured Projects
 <p align="center">
-  <a href="https://diaaeldeenn.github.io/DiaaEldeen-Bootstrap/" target="_blank" title="Responsive Bootstrap website">
+  <a href="https://diaaeldeenn.github.io/DiaaEldeen-Bootstrap/" target="_blank">
     <img src="https://img.shields.io/badge/DiaaEldeen--Bootstrap-007ACC?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </a>
-  <span title="Responsive Bootstrap website with modern design">💻 Hover for description</span>
-  <br/><br/>
-  <a href="https://diaaeldeenn.github.io/CRUDS/" target="_blank" title="CRUD functionality project">
+  <p align="center"><i>Responsive Bootstrap website with modern design</i></p>
+
+  <a href="https://diaaeldeenn.github.io/CRUDS/" target="_blank">
     <img src="https://img.shields.io/badge/CRUDS-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <span title="Create, Read, Update, Delete interactive project">💻 Hover for description</span>
-  <br/><br/>
-  <a href="https://diaaeldeenn.github.io/Smart-Login-System/" target="_blank" title="Modern login/register system">
+  <p align="center"><i>CRUD functionality project</i></p>
+
+  <a href="https://diaaeldeenn.github.io/Smart-Login-System/" target="_blank">
     <img src="https://img.shields.io/badge/Smart--Login--System-00BFFF?style=for-the-badge&logo=javascript&logoColor=white" />
   </a>
-  <span title="Smart login/register system using LocalStorage and modern UI">💻 Hover for description</span>
-  <br/><br/>
-  <a href="https://diaaeldeenn.github.io/Elseady-Store/" target="_blank" title="Functional web store project">
+  <p align="center"><i>Smart login/register system using LocalStorage and modern UI</i></p>
+
+  <a href="https://diaaeldeenn.github.io/Elseady-Store/" target="_blank">
     <img src="https://img.shields.io/badge/Elseady--Store-FF5733?style=for-the-badge&logo=shopify&logoColor=white" />
   </a>
-  <span title="Functional web store showcasing product listings and UI interactions">💻 Hover for description</span>
-</p>
-
-<p align="center">
-  <b>Click badges above to see Live Demo</b>
+  <p align="center"><i>Functional web store showcasing product listings and UI interactions</i></p>
 </p>
 
 ---
 
 ## 👨‍💻 Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/diaaeldeenn/count.svg" />
+  <img src="https://img.shields.io/badge/Visitors-∞-brightgreen" />
 </p>
 
 ---
