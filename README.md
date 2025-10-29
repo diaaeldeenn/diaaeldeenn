@@ -40,29 +40,14 @@ Continuously learning **React, TypeScript, and Next.js** to expand my Front-End 
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=diaaeldeenn&color=brightgreen)
-</p>
-
----
-
 ## 📫 Contact Me
 <p align="center">
   <a href="https://www.linkedin.com/in/diaaelseady" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:diaaelseady@gmail.com">
+  <a href="mailto:diaaelseady@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-## 🏆 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diaaeldeenn&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diaaeldeenn&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
