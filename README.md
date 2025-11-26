@@ -1,42 +1,72 @@
 # 👋 Hi, I'm Diaa Eldeen
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00BFFF&size=28&lines=Front-End+Developer;Clean+and+Modern+UI;Always+Learning+New+Techs!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00BFFF&size=28&lines=Front-End+Developer;Mern-Stack+In+Progress;Clean+and+Modern+UI;Always+Improving)](https://git.io/typing-svg)
 
-I'm a **Computer Engineering student** from Alexandria, Egypt.  
-Currently mastering **HTML, CSS, JavaScript, Bootstrap, Git, GitHub, and VS Code**.  
-Continuously learning **React, TypeScript, and Next.js** to expand my Front-End skills.  
+**Front-End Developer** with strong fundamentals in HTML, CSS, and JavaScript — focused on writing clean, maintainable code and building scalable project structures.  
+Currently developing Back-End skills (Node.js, Databases, MongoDB, TypeScript, NestJS) to deliver complete, real-world applications end to end.
+
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack (Completed)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,npm" height="55" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 <p align="center">
-  <a href="https://diaaeldeenn.github.io/DiaaEldeen-Bootstrap/" target="_blank">
-    <img src="https://img.shields.io/badge/DiaaEldeen--Bootstrap-007ACC?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+  <a href="https://diaaeldeenn.github.io/Yummy/" target="_blank">
+    <img src="https://img.shields.io/badge/Yummy-FF4B4B?style=for-the-badge&logo=javascript&logoColor=white" />
   </a>
-  <p align="center"><i>Responsive Bootstrap website with modern design</i></p>
+  <p align="center"><i>Full JS project | API-based | filtering, search, animations</i></p>
+
+  <a href="https://diaaeldeenn.github.io/Nexus-Hub/" target="_blank">
+    <img src="https://img.shields.io/badge/Nexus_Hub-6A5ACD?style=for-the-badge&logo=javascript&logoColor=white" />
+  </a>
+  <p align="center"><i>Gaming API platform | dynamic routing | clean UI</i></p>
 
   <a href="https://diaaeldeenn.github.io/CRUDS/" target="_blank">
-    <img src="https://img.shields.io/badge/CRUDS-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/CRUDS-0A66C2?style=for-the-badge&logo=javascript&logoColor=white" />
   </a>
-  <p align="center"><i>CRUD functionality project</i></p>
+  <p align="center"><i>CRUD operations | search | LocalStorage</i></p>
+
+  <a href="https://diaaeldeenn.github.io/Skymora/" target="_blank">
+    <img src="https://img.shields.io/badge/Skymora-00BFFF?style=for-the-badge&logo=api&logoColor=white" />
+  </a>
+  <p align="center"><i>Weather API app | realtime search | responsive UI</i></p>
 
   <a href="https://diaaeldeenn.github.io/Smart-Login-System/" target="_blank">
-    <img src="https://img.shields.io/badge/Smart--Login--System-00BFFF?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Smart_Login_System-FFD700?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
-  <p align="center"><i>Smart login/register system using LocalStorage and modern UI</i></p>
+  <p align="center"><i>LocalStorage login/register system</i></p>
 
-  <a href="https://diaaeldeenn.github.io/Elseady-Store/" target="_blank">
-    <img src="https://img.shields.io/badge/Elseady--Store-FF5733?style=for-the-badge&logo=shopify&logoColor=white" />
-  </a>
-  <p align="center"><i>Functional web store showcasing product listings and UI interactions</i></p>
 </p>
+
+---
+
+## 🚀 Current Learning (Route Academy)
+
+### **Front-End (Final Stage)**
+- Tailwind 4  
+- TypeScript  
+- jQuery + Plugins  
+- Figma  
+- SASS  
+- React (Hooks, Routing, Forms, Auth, Redux Toolkit, React Query)  
+- Next.js + NextAuth  
+- Zod Validation  
+- shadcn/ui  
+
+### **Back-End (In Progress)**
+- Node.js Fundamentals  
+- Database Fundamentals + ERD  
+- MongoDB (with/without Mongoose)  
+- TypeScript  
+- NestJS (Core + Advanced Topics)  
+- Unit Testing  
 
 ---
 
@@ -52,4 +82,4 @@ Continuously learning **React, TypeScript, and Next.js** to expand my Front-End 
 
 ---
 
-> ⚡ This GitHub Profile is designed to showcase my **best projects**, skills, and activity — perfect for potential employers and collaborators to see my work.
+> ⚡ This profile highlights my strongest projects and my progress in both Front-End & Back-End development.
