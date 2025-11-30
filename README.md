@@ -8,7 +8,7 @@ Currently developing Back-End skills (Node.js, Databases, MongoDB, TypeScript, N
 
 ---
 
-## 🧰 Tech Stack (Completed)
+## 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,npm" height="55" />
 </p>
