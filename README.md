@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Diaa Eldeen
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00BFFF&size=28&lines=Front-End+Developer;Mern-Stack+In+Progress;Clean+and+Modern+UI;Always+Improving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00BFFF&size=28&lines=Front-End+Developer;React+%26+Next.js;TypeScript+Focused;Clean+and+Modern+UI)](https://git.io/typing-svg)
 
-**Front-End Developer** with strong fundamentals in HTML, CSS, and JavaScript — focused on writing clean, maintainable code and building scalable project structures.  
-Currently developing Back-End skills (Node.js, Databases, MongoDB, TypeScript, NestJS) to deliver complete, real-world applications end to end.
+Front-End Developer focused on building modern, scalable, and high-performance web applications.  
+Experienced with **HTML, CSS, JavaScript, TypeScript, React, and Next.js**, with strong attention to clean code, reusable components, and professional UI/UX practices.
 
+Strong back-end foundations using **Node.js and Express**, with a solid understanding of RESTful APIs, database fundamentals, and system architecture — enabling smooth collaboration on full-stack projects.
 
 ---
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,npm" height="55" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,typescript,jquery,react,nextjs,redux,git,npm,figma,nodejs,express,vite,vscode" height="85" />
 </p>
 
 ---
@@ -18,55 +19,121 @@ Currently developing Back-End skills (Node.js, Databases, MongoDB, TypeScript, N
 ## 🌟 Featured Projects
 <p align="center">
 
-  <a href="https://diaaeldeenn.github.io/Yummy/" target="_blank">
-    <img src="https://img.shields.io/badge/Yummy-FF4B4B?style=for-the-badge&logo=javascript&logoColor=white" />
+  <a href="https://github.com/diaaeldeenn/movies-cinema" target="_blank">
+    <img src="https://img.shields.io/badge/Movies_Cinema-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
-  <p align="center"><i>Full JS project | API-based | filtering, search, animations</i></p>
+  <p align="center">
+    <i>
+      React application | API integration | dynamic rendering | clean component structure
+    </i>
+  </p>
 
   <a href="https://diaaeldeenn.github.io/Nexus-Hub/" target="_blank">
     <img src="https://img.shields.io/badge/Nexus_Hub-6A5ACD?style=for-the-badge&logo=javascript&logoColor=white" />
   </a>
-  <p align="center"><i>Gaming API platform | dynamic routing | clean UI</i></p>
+  <p align="center">
+    <i>
+      Gaming API platform | dynamic content | structured UI | search & filtering
+    </i>
+  </p>
 
-  <a href="https://diaaeldeenn.github.io/CRUDS/" target="_blank">
-    <img src="https://img.shields.io/badge/CRUDS-0A66C2?style=for-the-badge&logo=javascript&logoColor=white" />
+  <a href="https://diaaeldeenn.github.io/Yummy/" target="_blank">
+    <img src="https://img.shields.io/badge/Yummy-FF4B4B?style=for-the-badge&logo=javascript&logoColor=white" />
   </a>
-  <p align="center"><i>CRUD operations | search | LocalStorage</i></p>
+  <p align="center">
+    <i>
+      API-driven JavaScript application | filtering, search | animations & UX interactions
+    </i>
+  </p>
 
   <a href="https://diaaeldeenn.github.io/Skymora/" target="_blank">
     <img src="https://img.shields.io/badge/Skymora-00BFFF?style=for-the-badge&logo=api&logoColor=white" />
   </a>
-  <p align="center"><i>Weather API app | realtime search | responsive UI</i></p>
+  <p align="center">
+    <i>
+      Weather API app | real-time search | responsive design
+    </i>
+  </p>
+
+  <a href="https://diaaeldeenn.github.io/CRUDS/" target="_blank">
+    <img src="https://img.shields.io/badge/CRUDS-0A66C2?style=for-the-badge&logo=javascript&logoColor=white" />
+  </a>
+  <p align="center">
+    <i>
+      CRUD operations | search functionality | LocalStorage data handling
+    </i>
+  </p>
 
   <a href="https://diaaeldeenn.github.io/Smart-Login-System/" target="_blank">
     <img src="https://img.shields.io/badge/Smart_Login_System-FFD700?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
-  <p align="center"><i>LocalStorage login/register system</i></p>
+  <p align="center">
+    <i>
+      Authentication system | login & registration | LocalStorage-based logic
+    </i>
+  </p>
 
 </p>
 
 ---
 
-## 🚀 Current Learning (Route Academy)
+## 🧠 Front-End Expertise
 
-### **Front-End (Final Stage)**
-- Tailwind 4  
-- TypeScript  
-- jQuery + Plugins  
-- Figma  
-- SASS  
-- React (Hooks, Routing, Forms, Auth, Redux Toolkit, React Query)  
-- Next.js + NextAuth  
-- Zod Validation  
-- shadcn/ui  
+### **Core Fundamentals**
+- HTML5 (Semantic Markup, Accessibility)
+- CSS3 (Flexbox, Grid, Responsive Design)
+- JavaScript (ES6+) & TypeScript
+- Clean Code & Problem Solving
 
-### **Back-End (In Progress)**
-- Node.js Fundamentals  
-- Database Fundamentals + ERD  
-- MongoDB (with/without Mongoose)  
-- TypeScript  
-- NestJS (Core + Advanced Topics)  
-- Unit Testing  
+### **Styling & UI**
+- Bootstrap 5
+- Tailwind CSS
+- SASS
+- Responsive layouts & modern UI patterns
+
+### **JavaScript & Browser APIs**
+- DOM & BOM
+- jQuery + Plugins
+- Client-side validation & logic
+
+### **React & Modern Front-End**
+- React (Components, Hooks)
+- Routing & Forms
+- Authentication flows
+- State Management (Redux Toolkit)
+- Server State (React Query)
+
+### **Next.js & Advanced Tools**
+- Next.js (Routing, Optimization)
+- NextAuth
+- Zod Validation
+- shadcn/ui
+
+### **Workflow & Best Practices**
+- Git & GitHub
+- NPM
+- Figma (UI to Code)
+- Scalable project structure & maintainable architecture
+
+---
+
+## 🧩 Back-End Foundations
+
+### **Core Concepts**
+- Node.js Fundamentals
+- Express.js
+- RESTful APIs
+- Request / Response lifecycle
+
+### **Databases**
+- Database Fundamentals
+- ERD (Entity Relationship Diagrams)
+- Data modeling & relationships
+
+### **Practices**
+- Modular architecture
+- Separation of concerns
+- API testing & debugging (Postman)
 
 ---
 
@@ -82,4 +149,4 @@ Currently developing Back-End skills (Node.js, Databases, MongoDB, TypeScript, N
 
 ---
 
-> ⚡ This profile highlights my strongest projects and my progress in both Front-End & Back-End development.
+> ⚡ Production-ready front-end development with a strong focus on clean architecture, scalability, and solid back-end foundations.
