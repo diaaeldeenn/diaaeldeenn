@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Diaa Eldeen
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Eng Diaa Eldeen
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00BFFF&size=28&lines=Front-End+Developer;React+%26+Next.js;TypeScript+Focused;Clean+and+Modern+UI)](https://git.io/typing-svg)
 
