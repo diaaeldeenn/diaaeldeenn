@@ -1,18 +1,18 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Eng Diaa Eldeen
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00BFFF&size=28&lines=MERN+Stack+Developer;Front-End:+React+%26+Next.js;Back-End:+Node.js+%26+Express;MongoDB+%26+Mongoose;TypeScript+Focused;Clean+%26+Scalable+Code)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00BFFF&size=28&lines=Front-End+Developer;React+%26+Next.js;TypeScript+Focused;Clean+and+Modern+UI)](https://git.io/typing-svg)
+**MERN Stack Developer** focused on building modern, scalable, and high-performance web applications.
 
-Front-End Developer focused on building modern, scalable, and high-performance web applications.  
-Experienced with **HTML, CSS, JavaScript, TypeScript, React, and Next.js**, with strong attention to clean code, reusable components, and professional UI/UX practices.
+**Front-End:** Strong expertise in **React, Next.js, TypeScript**, and modern UI libraries, with sharp attention to clean code, reusable components, and professional UI/UX practices.
 
-Strong back-end foundations using **Node.js and Express**, with a solid understanding of RESTful APIs, database fundamentals, and system architecture — enabling smooth collaboration on full-stack projects.
+**Back-End:** Solid experience with **Node.js, Express, MongoDB (Mongoose), and MySQL (Sequelize)** — hands-on knowledge in **MVC architecture**, **RESTful APIs**, **authentication & authorization**, and **database design & relationships**.
 
 ---
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,typescript,jquery,react,nextjs,redux,git,npm,figma,nodejs,express,vite,vscode" height="85" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,typescript,react,nextjs,redux,nodejs,express,mongodb,mysql,git,npm,postman,figma,vite,vscode" height="85" />
 </p>
 
 ---
@@ -20,12 +20,21 @@ Strong back-end foundations using **Node.js and Express**, with a solid understa
 ## 🌟 Featured Projects
 <p align="center">
 
+  <a href="https://github.com/diaaeldeenn/SocialMediaApp" target="_blank">
+    <img src="https://img.shields.io/badge/Social_Media_App-0A66C2?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <p align="center">
+    <i>
+      Full React social media platform | Component architecture | State management | Clean & scalable structure
+    </i>
+  </p>
+
   <a href="https://github.com/diaaeldeenn/movies-cinema" target="_blank">
     <img src="https://img.shields.io/badge/Movies_Cinema-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
   <p align="center">
     <i>
-      React application | API integration | dynamic rendering | clean component structure
+      React application | API integration | Dynamic rendering | Clean component structure
     </i>
   </p>
 
@@ -34,7 +43,7 @@ Strong back-end foundations using **Node.js and Express**, with a solid understa
   </a>
   <p align="center">
     <i>
-      Gaming API platform | dynamic content | structured UI | search & filtering
+      Gaming API platform | Dynamic content | Structured UI | Search & filtering
     </i>
   </p>
 
@@ -43,7 +52,7 @@ Strong back-end foundations using **Node.js and Express**, with a solid understa
   </a>
   <p align="center">
     <i>
-      API-driven JavaScript application | filtering, search | animations & UX interactions
+      API-driven JavaScript application | Filtering & search | Smooth animations & UX interactions
     </i>
   </p>
 
@@ -52,25 +61,7 @@ Strong back-end foundations using **Node.js and Express**, with a solid understa
   </a>
   <p align="center">
     <i>
-      Weather API app | real-time search | responsive design
-    </i>
-  </p>
-
-  <a href="https://diaaeldeenn.github.io/CRUDS/" target="_blank">
-    <img src="https://img.shields.io/badge/CRUDS-0A66C2?style=for-the-badge&logo=javascript&logoColor=white" />
-  </a>
-  <p align="center">
-    <i>
-      CRUD operations | search functionality | LocalStorage data handling
-    </i>
-  </p>
-
-  <a href="https://diaaeldeenn.github.io/Smart-Login-System/" target="_blank">
-    <img src="https://img.shields.io/badge/Smart_Login_System-FFD700?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
-  <p align="center">
-    <i>
-      Authentication system | login & registration | LocalStorage-based logic
+      Weather API app | Real-time search | Responsive design
     </i>
   </p>
 
@@ -78,7 +69,7 @@ Strong back-end foundations using **Node.js and Express**, with a solid understa
 
 ---
 
-## 🧠 Front-End Expertise
+## ⚛️ Front-End Development
 
 ### **Core Fundamentals**
 - HTML5 (Semantic Markup, Accessibility)
@@ -87,54 +78,71 @@ Strong back-end foundations using **Node.js and Express**, with a solid understa
 - Clean Code & Problem Solving
 
 ### **Styling & UI**
-- Bootstrap 5
 - Tailwind CSS
+- Bootstrap 5
 - SASS
 - Responsive layouts & modern UI patterns
 
-### **JavaScript & Browser APIs**
-- DOM & BOM
-- jQuery + Plugins
-- Client-side validation & logic
-
-### **React & Modern Front-End**
-- React (Components, Hooks)
-- Routing & Forms
-- Authentication flows
+### **React Ecosystem**
+- React (Components, Hooks, Context API)
 - State Management (Redux Toolkit)
 - Server State (React Query)
+- Forms & Validation
+- Authentication flows
+- Routing & Navigation
 
-### **Next.js & Advanced Tools**
-- Next.js (Routing, Optimization)
-- NextAuth
-- Zod Validation
+### **Next.js**
+- App Router & File-based Routing
+- Server & Client Components
+- Performance optimization
+- NextAuth (Authentication)
+- Zod validation
 - shadcn/ui
 
-### **Workflow & Best Practices**
+### **Tools & Workflow**
 - Git & GitHub
-- NPM
+- NPM & Package Management
 - Figma (UI to Code)
 - Scalable project structure & maintainable architecture
 
 ---
 
-## 🧩 Back-End Foundations
+## 🔧 Back-End Development (MERN Stack)
 
-### **Core Concepts**
-- Node.js Fundamentals
-- Express.js
-- RESTful APIs
-- Request / Response lifecycle
+### **Server-Side (Node.js & Express)**
+- Node.js fundamentals & built-in modules
+- Express.js framework
+- RESTful API design & implementation
+- MVC architecture pattern
+- Routers, Controllers & Models
+- Middleware (custom & third-party)
+- Error handling & validation
 
-### **Databases**
-- Database Fundamentals
-- ERD (Entity Relationship Diagrams)
-- Data modeling & relationships
+### **Databases & Data Management**
+- **MongoDB** with **Mongoose (ODM)**
+  - Schema design & validation
+  - Population & relationships between collections
+  - Aggregation pipelines
+  - Query optimization
+- **MySQL** with **Sequelize (ORM)**
+  - Relational database design
+  - Models & Associations (one-to-one, one-to-many, many-to-many)
+  - Migrations & queries
 
-### **Practices**
-- Modular architecture
+### **Security & Authentication**
+- Password hashing (bcrypt)
+- Data encryption
+- JWT (JSON Web Tokens)
+- Authentication & authorization flows
+- Session management basics
+
+### **Best Practices**
 - Separation of concerns
+- Modular & scalable architecture
 - API testing & debugging (Postman)
+- Request/Response lifecycle
+- Error handling & input validation
+- Environment variables & configuration
 
 ---
 
@@ -150,4 +158,4 @@ Strong back-end foundations using **Node.js and Express**, with a solid understa
 
 ---
 
-> ⚡ Production-ready front-end development with a strong focus on clean architecture, scalability, and solid back-end foundations.
+> ⚡ MERN Stack Developer — Building clean, scalable, and production-ready web applications.
