@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00BFFF&size=28&lines=MERN+Stack+Developer;Front-End:+React+%26+Next.js;Back-End:+Node.js+%26+Express;MongoDB+%26+Mongoose;TypeScript+Focused;Clean+%26+Scalable+Code)](https://git.io/typing-svg)
 
-**MERN Stack Developer** focused on building modern, scalable, and high-performance web applications.
+**MERN Stack Developer** focused on building modern, scalable web apps with clear architecture and clean implementation across front-end and back-end.
 
 **Front-End:** Strong expertise in **React, Next.js, TypeScript**, and modern UI libraries, with sharp attention to clean code, reusable components, and professional UI/UX practices.
 
@@ -12,7 +12,15 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,typescript,react,nextjs,redux,nodejs,express,mongodb,mysql,git,npm,postman,figma,vite,vscode" height="85" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,typescript,react,nextjs,redux,vite" height="68" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sequelize,git,github,npm,postman,figma,vscode" height="68" />
+</p>
+
+<p align="center">
+  <sub>React Query • NextAuth • Zod • shadcn/ui • JWT • bcrypt • MVC</sub>
 </p>
 
 ---
@@ -20,48 +28,48 @@
 ## 🌟 Featured Projects
 <p align="center">
 
-  <a href="https://github.com/diaaeldeenn/SocialMediaApp" target="_blank">
-    <img src="https://img.shields.io/badge/Social_Media_App-0A66C2?style=for-the-badge&logo=react&logoColor=white" />
+  <a href="https://github.com/diaaeldeenn/novyra-souq" target="_blank">
+    <img src="https://img.shields.io/badge/1-_Novyra_Souq-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   </a>
   <p align="center">
     <i>
-      Full React social media platform | Component architecture | State management | Clean & scalable structure
+      Front-end e-commerce experience | Next.js + TypeScript | Clean UI flow | Reusable components
+    </i>
+  </p>
+
+  <a href="https://github.com/diaaeldeenn/SocialMediaApp" target="_blank">
+    <img src="https://img.shields.io/badge/2-_Social_Media_App-0A66C2?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <p align="center">
+    <i>
+      React social media app | Modular components | State management | Organized project structure
     </i>
   </p>
 
   <a href="https://github.com/diaaeldeenn/movies-cinema" target="_blank">
-    <img src="https://img.shields.io/badge/Movies_Cinema-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/3-_Movies_Cinema-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
   <p align="center">
     <i>
-      React application | API integration | Dynamic rendering | Clean component structure
+      React movie discovery app | API integration | Dynamic rendering | Reusable UI components
     </i>
   </p>
 
   <a href="https://diaaeldeenn.github.io/Nexus-Hub/" target="_blank">
-    <img src="https://img.shields.io/badge/Nexus_Hub-6A5ACD?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/4-_Nexus_Hub-6A5ACD?style=for-the-badge&logo=javascript&logoColor=white" />
   </a>
   <p align="center">
     <i>
-      Gaming API platform | Dynamic content | Structured UI | Search & filtering
+      Gaming platform interface | Live API content | Structured layout | Search & filtering
     </i>
   </p>
 
   <a href="https://diaaeldeenn.github.io/Yummy/" target="_blank">
-    <img src="https://img.shields.io/badge/Yummy-FF4B4B?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/5-_Yummy-FF4B4B?style=for-the-badge&logo=javascript&logoColor=white" />
   </a>
   <p align="center">
     <i>
-      API-driven JavaScript application | Filtering & search | Smooth animations & UX interactions
-    </i>
-  </p>
-
-  <a href="https://diaaeldeenn.github.io/Skymora/" target="_blank">
-    <img src="https://img.shields.io/badge/Skymora-00BFFF?style=for-the-badge&logo=api&logoColor=white" />
-  </a>
-  <p align="center">
-    <i>
-      Weather API app | Real-time search | Responsive design
+      Food recipes app | API-based content | Search and filters | Smooth UI interactions
     </i>
   </p>
 
@@ -158,4 +166,8 @@
 
 ---
 
-> ⚡ MERN Stack Developer — Building clean, scalable, and production-ready web applications.
+> ⚡ MERN Stack Developer — Focused on clean architecture, solid UX, and scalable web applications.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diaaeldeenn&label=Profile%20views&color=0e75b6&style=flat" alt="diaaeldeenn" />
+</p>
