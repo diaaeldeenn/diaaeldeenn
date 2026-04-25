@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00BFFF&size=28&lines=MERN+Stack+Developer;Front-End:+React+%26+Next.js;Back-End:+Node.js+%26+Express;MongoDB+%2B+Redis+%2B+Stripe;TypeScript+Focused;Clean+%26+Structured+Code)](https://git.io/typing-svg)
 
-Full-stack developer using React, Next.js, Node.js, Express, and MongoDB.
+MERN-stack developer using React, Next.js, Node.js, Express, and MongoDB.
 I work across frontend and backend and focus on how everything connects.
 
 **Frontend:** TypeScript, TanStack Query, Redux Toolkit, Tailwind CSS. I keep components reusable and state predictable.
