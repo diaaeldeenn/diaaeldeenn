@@ -28,7 +28,7 @@ I work across frontend and backend and focus on how everything connects.
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/diaaeldeenn/myPetStore" target="_blank">
+  <a href="https://github.com/diaaeldeenn/myPetStore-Api" target="_blank">
     <img src="https://img.shields.io/badge/1-_MyPets_Store_(Backend)-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   </a>
   <p align="center">
