@@ -1,79 +1,97 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Eng Diaa Eldeen
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Eng. Diaa Eldeen
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=00BFFF&size=28&lines=MERN+Stack+Developer;Front-End:+React+%26+Next.js;Back-End:+Node.js+%26+Express;MongoDB+%2B+Redis+%2B+Stripe;TypeScript+Focused;Clean+%26+Structured+Code)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=28&duration=3500&pause=800&color=00BFFF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;React+%26+Next.js;Node.js+%26+NestJS;MongoDB+%2B+Redis+%2B+AWS;TypeScript" alt="Typing SVG" />
+  </a>
+</p>
 
-MERN-stack developer using React, Next.js, Node.js, Express, and MongoDB.
-I work across frontend and backend and focus on how everything connects.
-
-**Frontend:** TypeScript, TanStack Query, Redux Toolkit, Tailwind CSS. I keep components reusable and state predictable.
-
-**Backend:** REST APIs, modular structure, JWT authentication, Redis OTP (rate limiting and auto-blocking), AES-256-CBC encryption, Stripe webhooks. Validation, error handling, and consistent API behavior across every endpoint.
+Full Stack Developer focused on React, Next.js, Node.js, NestJS, and MongoDB.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
+
+### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,typescript,react,nextjs,redux,vite" height="68" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,git,github,npm,postman,figma,vscode" height="68" />
-</p>
-<p align="center">
-  <sub>React Query • NextAuth • Redux Toolkit • Joi • Zod • JWT • bcrypt • Stripe • Cloudinary • Nodemailer • node-cron • MySQL • Sequelize</sub>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,redux,vite,figma" height="60" />
 </p>
 
----
+<p align="center">
+  <sub>TanStack Query &nbsp;·&nbsp; NextAuth &nbsp;·&nbsp; React Hook Form &nbsp;·&nbsp; Zod &nbsp;·&nbsp; Radix UI &nbsp;·&nbsp; Axios</sub>
+</p>
 
-## 🌟 Featured Projects
+### Backend
 
 <p align="center">
-  <a href="https://github.com/diaaeldeenn/myPetStore-Api" target="_blank">
-    <img src="https://img.shields.io/badge/1-_MyPets_Store_(Backend)-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  </a>
-  <p align="center">
-    <i>E-Commerce REST API | Node.js + Express + MongoDB + Redis + Stripe | Coupons • Orders • Reviews • OTP Auth</i>
-  </p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,redis,graphql,aws,git,github,postman,vscode" height="60" />
+</p>
 
-  <a href="https://github.com/diaaeldeenn/novyra-souq" target="_blank">
-    <img src="https://img.shields.io/badge/2-_Novyra_Souq_(Frontend)-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  </a>
-  <p align="center">
-    <i>E-commerce storefront | Next.js 16 + TypeScript | NextAuth • TanStack Query • Tailwind • Radix UI</i>
-  </p>
-
-  <a href="https://github.com/diaaeldeenn/sarahahApp-BackEnd" target="_blank">
-    <img src="https://img.shields.io/badge/3-_Sarahah_App_(Backend)-0f3460?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  </a>
-  <p align="center">
-    <i>Anonymous messaging API | Node.js + MongoDB + Redis | Google OAuth2 • JTI Token Revocation • Event-driven email • <a href="https://documenter.getpostman.com/view/49715513/2sBXiqFpZ5">Postman Docs</a></i>
-  </p>
-
-  <a href="https://github.com/diaaeldeenn/SocialMediaApp" target="_blank">
-    <img src="https://img.shields.io/badge/4-_Sphere_(Frontend)-0A66C2?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <p align="center">
-    <i>Social media platform | React 19 | Context API • React Hook Form • Zod • Axios interceptors</i>
-  </p>
+<p align="center">
+  <sub>JWT &nbsp;·&nbsp; bcrypt &nbsp;·&nbsp; Socket.io &nbsp;·&nbsp; Stripe &nbsp;·&nbsp; FCM &nbsp;·&nbsp; Cloudinary &nbsp;·&nbsp; Nodemailer &nbsp;·&nbsp; Joi &nbsp;·&nbsp; Sequelize &nbsp;·&nbsp; node-cron &nbsp;</sub>
 </p>
 
 ---
 
-## 📫 Contact Me
+## Featured Projects
+
+### 🌐 Social Media Platform &nbsp; `Backend`
+
+*Node.js · TypeScript · Express 5 · MongoDB · Redis · AWS S3 · FCM · Socket.io*
+
+A generic `BaseRepository<T>` keeps business logic independent from Mongoose across the application. Google OAuth2, JWT with `jwtid`, and Redis-backed OTP protection handle authentication and brute-force prevention. AWS S3 pre-signed URLs manage media uploads, Firebase Cloud Messaging delivers notifications across multiple devices, and real-time chat runs on a dedicated Socket.io branch.
+
+**Links**  
+[Repository](https://github.com/diaaeldeenn/socialApp-node) • [Postman Documentation](https://documenter.getpostman.com/view/49715513/2sBY4PPgB9)
+
+---
+
+### 🛒 Novyra Souq &nbsp; `Frontend`
+
+*Next.js 16 · TypeScript · TanStack Query · NextAuth · Tailwind CSS · Radix UI*
+
+TanStack Query manages server state, while NextAuth handles authentication and session management. The interface is built from reusable Radix UI primitives styled with Tailwind CSS.
+
+**Links**  
+[Repository](https://github.com/diaaeldeenn/novyra-souq) • [Live Demo](https://novyra-souq.vercel.app/)
+
+---
+
+### 🐾 MyPets Store API &nbsp; `Backend`
+
+*Node.js · Express · MongoDB · Redis · Stripe*
+
+Redis is used for OTP verification, rate limiting, and temporary data alongside MongoDB. Stripe webhooks, coupon validation, Cloudinary uploads, order processing, and reviews are implemented through separate modules.
+
+**Links**  
+[Repository](https://github.com/diaaeldeenn/myPetStore-Api) • [Postman Documentation](https://documenter.getpostman.com/view/49715513/2sBXqGqM2x)
+
+---
+
+### 📚 JavaScript & Bootstrap Reference &nbsp; `Open Source`
+
+*8 Sessions · ES6+ · OOP · Async JavaScript · Bootstrap 5*
+
+Written while teaching JavaScript, this reference covers execution context, closures, prototype chains, asynchronous JavaScript, browser APIs, Bootstrap 5, and more than 100 interview questions in a single structured reference.
+
+**Links**  
+[Repository](https://github.com/diaaeldeenn/javascript-complete-reference)
+
+---
+
+## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/diaaelseady" target="_blank">
+  <a href="https://www.linkedin.com/in/diaaelseady">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:diaaelseady@gmail.com" target="_blank">
+  &nbsp;
+  <a href="mailto:diaaelseady@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-> ⚡ MERN Stack Developer — React & Next.js on the front end. Node.js, Express & MongoDB on the back end.
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diaaeldeenn&label=Profile%20views&color=0e75b6&style=flat" alt="diaaeldeenn" />
+  <img src="https://komarev.com/ghpvc/?username=diaaeldeenn&label=Visitors&color=0e75b6&style=flat" />
 </p>
