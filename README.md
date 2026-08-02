@@ -86,7 +86,7 @@ A generic `BaseRepository<T>` decouples business services from Mongoose operatio
 Written while teaching JavaScript, this reference covers execution context, closures, prototype chains, asynchronous JavaScript, browser APIs, Bootstrap 5, and more than 100 interview questions in a single structured reference.
 
 **Links**  
-[Repository](https://github.com/diaaeldeenn/javascript-complete-reference)
+[Repository](https://github.com/diaaeldeenn/javascript-complete-reference-guide)
 
 ---
 
