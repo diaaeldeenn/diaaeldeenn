@@ -13,28 +13,38 @@ Full Stack Developer focused on React, Next.js, Node.js, NestJS, and MongoDB.
 ## Tech Stack
 
 ### Frontend
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,nextjs,redux,vite,figma" height="60" />
 </p>
-
 <p align="center">
   <sub>TanStack Query &nbsp;·&nbsp; NextAuth &nbsp;·&nbsp; React Hook Form &nbsp;·&nbsp; Zod &nbsp;·&nbsp; Radix UI &nbsp;·&nbsp; Axios</sub>
 </p>
 
 ### Backend
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,redis,graphql,aws,git,github,postman,vscode" height="60" />
 </p>
-
 <p align="center">
-  <sub>JWT &nbsp;·&nbsp; bcrypt &nbsp;·&nbsp; Socket.io &nbsp;·&nbsp; Stripe &nbsp;·&nbsp; FCM &nbsp;·&nbsp; Cloudinary &nbsp;·&nbsp; Nodemailer &nbsp;·&nbsp; Joi &nbsp;·&nbsp; Sequelize &nbsp;·&nbsp; node-cron &nbsp;</sub>
+  <sub>JWT &nbsp;·&nbsp; bcrypt &nbsp;·&nbsp; Socket.io &nbsp;·&nbsp; Stripe &nbsp;·&nbsp; FCM &nbsp;·&nbsp; Cloudinary &nbsp;·&nbsp; Nodemailer &nbsp;·&nbsp; Joi &nbsp;·&nbsp; Sequelize &nbsp;·&nbsp; node-cron</sub>
 </p>
 
 ---
 
 ## Featured Projects
+
+### 📊 Noventra – Full-Stack SaaS Dashboard &nbsp; `Full-Stack`
+
+*React 19 · Node.js · Express.js · MongoDB · Redis · Tailwind CSS v4*
+
+Enterprise inventory and sales management dashboard. The backend runs MongoDB transactions for atomic multi-product sales with `bulkWrite` stock restoration on cancellation, Redis cache invalidation tied to business events rather than TTL, and a unified Zod middleware validating body, params, query, and file inputs in a single pass. The frontend delivers a role-based dashboard for Admin, Manager, and Employee roles with a full POS workflow, Recharts analytics, multi-format invoice export (Excel, PDF, Word), and instant in-app notifications.
+
+**Frontend**  
+[Repository](https://github.com/diaaeldeenn/Noventra-Dashboard-FrontEnd) • [Live Demo](https://noventra-dashboard-front-end.vercel.app/)
+
+**Backend**  
+[Repository](https://github.com/diaaeldeenn/Noventra-SaaS-Dashboard) • [API Docs](https://documenter.getpostman.com/view/49715513/2sBY4TpJ1x)
+
+---
 
 ### 🌐 Social Media Platform &nbsp; `Backend`
 
@@ -43,29 +53,29 @@ Full Stack Developer focused on React, Next.js, Node.js, NestJS, and MongoDB.
 A generic `BaseRepository<T>` keeps business logic independent from Mongoose across the application. Google OAuth2, JWT with `jwtid`, and Redis-backed OTP protection handle authentication and brute-force prevention. AWS S3 pre-signed URLs manage media uploads, Firebase Cloud Messaging delivers notifications across multiple devices, and real-time chat runs on a dedicated Socket.io branch.
 
 **Links**  
-[Repository](https://github.com/diaaeldeenn/socialApp-node) • [Postman Documentation](https://documenter.getpostman.com/view/49715513/2sBY4PPgB9)
+[Repository](https://github.com/diaaeldeenn/socialApp-node) • [API Docs](https://documenter.getpostman.com/view/49715513/2sBY4PPgB9)
 
 ---
 
 ### 🛒 Novyra Souq &nbsp; `Frontend`
 
-*Next.js 16 · TypeScript · TanStack Query · NextAuth · Tailwind CSS · Radix UI*
+*Next.js 16 · React 19 · TypeScript · NextAuth · TanStack Query · React Hook Form · Zod · Tailwind CSS v4 · Radix UI · Framer Motion*
 
-TanStack Query manages server state, while NextAuth handles authentication and session management. The interface is built from reusable Radix UI primitives styled with Tailwind CSS.
+A complete e-commerce storefront built with Next.js App Router. NextAuth handles authentication with JWT sessions and a full OTP-based forgot-password flow. TanStack Query and React Context manage server and client state, while server actions handle cart, wishlist, orders, and reviews. UI is built on Radix UI primitives with Tailwind CSS v4, Framer Motion animations, and dark/light mode support across all flows.
 
 **Links**  
 [Repository](https://github.com/diaaeldeenn/novyra-souq) • [Live Demo](https://novyra-souq.vercel.app/)
 
 ---
 
-### 🐾 MyPets Store API &nbsp; `Backend`
+### 🛍️ E-Commerce API &nbsp; `Backend`
 
-*Node.js · Express · MongoDB · Redis · Stripe*
+*NestJS 11 · TypeScript · MongoDB · Redis · AWS S3 · Stripe*
 
-Redis is used for OTP verification, rate limiting, and temporary data alongside MongoDB. Stripe webhooks, coupon validation, Cloudinary uploads, order processing, and reviews are implemented through separate modules.
+A generic `BaseRepository<T>` decouples business services from Mongoose operations. Role-based access runs through custom `AuthenticationGuard` and `AuthorizationGuard`. Stripe Checkout and webhooks handle card payments, with a refund flow that atomically restores stock, removes coupon usage, and unlocks the cart. `@nestjs/throttler` rate limits all routes with `@SkipThrottle` applied to the Stripe webhook endpoint.
 
 **Links**  
-[Repository](https://github.com/diaaeldeenn/myPetStore-Api) • [Postman Documentation](https://documenter.getpostman.com/view/49715513/2sBXqGqM2x)
+[Repository](https://github.com/diaaeldeenn/E-Commerce-Nest-Js) • [API Docs](https://documenter.getpostman.com/view/49715513/2sBY4QsKkG)
 
 ---
 
