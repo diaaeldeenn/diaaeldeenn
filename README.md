@@ -79,14 +79,31 @@ A generic `BaseRepository<T>` decouples business services from Mongoose operatio
 
 ---
 
-### 📚 JavaScript & Bootstrap Reference &nbsp; `Open Source`
+### 📚 Complete Reference Guides `Open Source`
 
+A series of structured references covering modern web development, written from real sessions with practical examples and interview-focused explanations.
+
+**JavaScript & Bootstrap**
 *8 Sessions · ES6+ · OOP · Async JavaScript · Bootstrap 5*
 
-Written while teaching JavaScript, this reference covers execution context, closures, prototype chains, asynchronous JavaScript, browser APIs, Bootstrap 5, and more than 100 interview questions in a single structured reference.
+JavaScript fundamentals, execution context, closures, prototype chains, asynchronous JavaScript, browser APIs, Bootstrap 5, and interview questions.
 
-**Links**  
 [Repository](https://github.com/diaaeldeenn/javascript-complete-reference-guide)
+
+**React & Tailwind CSS**
+*7 Sessions · React 19 · State Management · Tailwind CSS*
+
+React fundamentals, hooks, routing, forms, authentication, performance, state management with Context, TanStack Query, Redux Toolkit, RTK Query, and Tailwind CSS.
+
+[Repository](https://github.com/diaaeldeenn/react-tailwind-complete-reference)
+
+**Next.js & TypeScript**
+*4 Sessions · Next.js · Authentication · TypeScript*
+
+Rendering strategies, Server & Client Components, routing, API calls, NextAuth.js, Middleware, Server Actions, and TypeScript from fundamentals to generics and utility types.
+
+[Repository](https://github.com/diaaeldeenn/next-typescript-complete-reference)
+
 
 ---
 
