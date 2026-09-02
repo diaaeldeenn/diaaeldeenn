@@ -38,7 +38,18 @@ Full Stack Developer focused on React, Next.js, Node.js, NestJS, and MongoDB.
 
 ## Featured Projects
 
-### 📊 Noventra – Full-Stack SaaS Dashboard &nbsp; `Full-Stack`
+### 🧪 SH Medical Lab &nbsp; `Full-Stack`
+ 
+*Next.js 16 · React 19 · Node.js · Express 5 · MongoDB · TypeScript · Firebase Admin · PDFKit*
+ 
+A medical laboratory management system that handles the full workflow from test booking to result delivery. The backend implements a generic `BaseRepository<T>` pattern with domain-specific repositories, JWT role-based access control, Zod validation on every endpoint, Firebase Admin for real-time push notifications, and PDFKit for generating PDF medical reports. The frontend uses Next.js Server Actions as a secure proxy layer to keep tokens server-side, with dynamic result entry forms supporting multiple parameter types (numeric with age/gender-segmented reference ranges, select, positive/negative, and text) and auto-evaluation logic.
+ 
+**Frontend**  
+[Repository](https://github.com/diaaeldeenn/SH-Medical-Lab) • [Live Demo](https://sh-medical-lab.vercel.app/) • [API Docs](https://documenter.getpostman.com/view/49715513/2sBYArSrcC)
+ 
+---
+
+### 📊 Noventra - SaaS Dashboard &nbsp; `Full-Stack`
 
 *React 19 · Node.js · Express.js · MongoDB · Redis · Tailwind CSS v4*
 
@@ -52,16 +63,6 @@ Enterprise inventory and sales management dashboard. The backend runs MongoDB tr
 
 ---
 
-### 🌐 Social Media Platform &nbsp; `Backend`
-
-*Node.js · TypeScript · Express 5 · MongoDB · Redis · AWS S3 · FCM · Socket.io*
-
-A generic `BaseRepository<T>` keeps business logic independent from Mongoose across the application. Google OAuth2, JWT with `jwtid`, and Redis-backed OTP protection handle authentication and brute-force prevention. AWS S3 pre-signed URLs manage media uploads, Firebase Cloud Messaging delivers notifications across multiple devices, and real-time chat runs on a dedicated Socket.io branch.
-
-**Links**  
-[Repository](https://github.com/diaaeldeenn/socialApp-node) • [API Docs](https://documenter.getpostman.com/view/49715513/2sBY4PPgB9)
-
----
 
 ### 🛒 Novyra Souq &nbsp; `Frontend`
 
